@@ -9,3 +9,20 @@
 ## 🛠️ Tools Used
 - ```Excel```
 - ```Microsoft SQL Server```
+
+## ❓ Analysis Scenarios
+- [Get the teams that have won the maximum gold medals across each olypic year.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+- [Get every teams silver medal counts and the year in which they won the maximum silver medals.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+- [Get the player that has won the maximum gold medals but never won any other medal ever.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+- [Get the player names who have won the maximum gold medals across each olympic year.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+- [Get the year and the event's name in which India won it's first ever gold, silver and bronze medal.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+- [Get the players who won both all the medals i.e. Gold, Silver and Bronze in an Olympic Year.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+- [Get the players who won gold medal in both summer and winter olympics.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+- [Get the players who won gold medals in three consecutive olympic years in the same event.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
+
+## 🎡 Concepts Covered
+- Usage of ```Grouping and Aggregation Functions```.
+- Usage of ```CTE's and Subqueries```.
+- Usage of ```Window Functions``` like ```RANK, DENSE RANK, LEAD``` and ```LAG```.
+- Usage of ```Join Functions``` like ```Inner Join``` for joining the two tables.
+
