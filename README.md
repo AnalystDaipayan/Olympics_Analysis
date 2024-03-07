@@ -26,5 +26,10 @@
 - Usage of ```Window Functions``` like ```RANK, DENSE RANK, LEAD``` and ```LAG```.
 - Usage of ```Join Functions``` like ```Inner Join``` for joining the two tables.
 
+## 🎯 Analysis Results 
+- You can check from the query about the maximum winning gold medal team across each Olympic year, although in 120 years, ```Team United States``` have the maximum gold medals with the ```305 Count```.
+- The Player named ```Raymond Clarence "Ray" Ewry``` have won the maximum ```10 Gold Medals```, but never won any other medal ever.
+- ```India``` won it's first ```Gold Medal``` in ```1952```, first ```Silver Medal``` in ```Year 1900``` and the first ```Bronze Medal``` in ``` Year 1952```.
+- The Players named - ```Aleksandr Vladimirovich Popov```, ```Edward Patrick Francis "Eddie" Eagan```, ```Gillis Emanuel Grafstrm```, ```Kim So-Hui``` won ```Gold Medals in both Summer and Winter Olympics```.
 
 ## 🎉 That's it! 🎉
