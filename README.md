@@ -20,6 +20,8 @@
 - [Get the players who won gold medal in both summer and winter Olympics.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
 - [Get the players who won gold medals in three consecutive olympic years in the same event.](https://github.com/AnalystDaipayan/Olympics_Analysis/blob/main/Analysis_Solutions/SQLSolution.md)
 
+## 🎉 That's it! 🎉
+
 ## 🎡 Concepts Covered
 - Usage of ```Grouping and Aggregation Functions```.
 - Usage of ```CTE's and Subqueries```.
