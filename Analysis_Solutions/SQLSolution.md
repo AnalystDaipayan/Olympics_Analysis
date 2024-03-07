@@ -114,7 +114,7 @@ HAVING COUNT(DISTINCT medal)=3
 ORDER BY 1;
 ````
 
-### 8. Write a query to get the players name who have won gold medal in the same event for three consecutive years.
+### 8. Write a query to get the players name who have won gold medal in the same event for three consecutive years. Starting from the Year 2000.
 
 ````sql
 WITH Player_Details AS
